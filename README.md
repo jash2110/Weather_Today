@@ -1,5 +1,3 @@
-# Weather_Today
-
 # Weather Today 🌦️
 
 A simple weather app that shows real-time weather updates using the OpenWeatherMap API.
